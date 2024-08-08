@@ -36,7 +36,3 @@ By using that code the entrepreneur can see his current contact information and 
 
 - Spin up the compose-file
 - Start the ServiceApplication. Do not forget to set spring.profiles.active=dev
-
-## Tasks
-
-- Have a look through the code.
